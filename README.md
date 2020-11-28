@@ -17,8 +17,8 @@ It's always funny to demonstrate how systems can be stupid.
 
 # Advanced usage
 
-You can find all the methods in the class file `zanichelli.php`, they are well documented and also simple to understand by reading the code, because the Zanichelli security sucks.
-Have a great time reading infos (also emails of the creators) and passing all the tests with maximum marks.
+You can find all the methods in the class file `zanichelli.php`, they are well documented and also simple to understand by reading the code, because the Zanichelli security sucks.  
+Have a great time reading infos (also emails of the creators) and passing all the tests with maximum marks.  
 For Zanichelli, base64 doesn't protect you.
 
 # Credits
