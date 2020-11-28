@@ -2,7 +2,6 @@
 
 Is always funny to demostrate how systems can be stupid.
 
-
 # Usage
 
 1. Open "Developer Tools" (Ctrl + Shift + I on Chrome)
@@ -15,6 +14,12 @@ Is always funny to demostrate how systems can be stupid.
 
        php main.php [questions]
 8. Enjoy your mark :P
+
+# Advanced usage
+
+You can find all the methods in the class file `zanichelli.php`, they are well documented and also simple to understand by reading the code, because the Zanichelli security sucks.
+Have a great time reading infos (also emails of the creators) and passing all the tests with maximum marks.
+For Zanichelli, base64 doesn't protect you.
 
 # Credits
 
