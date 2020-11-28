@@ -1,0 +1,930 @@
+{
+    "_id": "zte_scuola_72034",
+    "publicTitle": "Unidad 1-potenziamento",
+    "bookId": 2000055015,
+    "bookTitle": "Volume 1",
+    "courseTitle": "En juego",
+    "subjects": [
+        {
+            "id": 70,
+            "name": "Lingua spagnola",
+            "schoolLevel": {
+                "id": 30000012,
+                "name": "Scuola secondaria di primo grado"
+            },
+            "editorialGroup": "01E"
+        }
+    ],
+    "owner": "336514",
+    "taxonomy": "",
+    "description": "",
+    "avoidShuffle": false,
+    "levelType": null,
+    "UGC": false,
+    "exercises": [
+        {
+            "id": 235163,
+            "name": "zte_scuola_1103989_En juego_vol1_u01_potenziamento_01_saludar_IMAGEN",
+            "publicTitle": "Saludar",
+            "type": 1,
+            "typeLabel": "exercise.multiplechoice",
+            "owner": "carlotta.verbavolant@libero.it",
+            "ownerCodeMyZ": "336514",
+            "origin": null,
+            "originOther": null,
+            "originYear": null,
+            "UGC": false,
+            "creationTime": "2020-02-22 22:15:43",
+            "modificationTime": "2020-07-15 20:51:37",
+            "levelType": null,
+            "malformed": false,
+            "originalId": 1103989,
+            "tags": [
+                
+            ],
+            "contentPaths": [
+                {
+                    "context": 2000034674,
+                    "paths": [
+                        {
+                            "verb": 1,
+                            "paths": [
+                                
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": 2000029803,
+                    "paths": [
+                        {
+                            "verb": 1,
+                            "paths": [
+                                
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "json": {
+                "tags": [
+                    
+                ],
+                "prompt": null,
+                "shuffle": true,
+                "version": 1,
+                "question": "Mira la imagen y completa el diálogo eligiendo las respuestas correctas. Ojo: hay más de una respuesta correcta<br/><br/>—Hola, soy el padre de Roberto.<br/><br/>",
+                "feedbacks": {
+                    "genericFeedback": "",
+                    "genericErrorFeedback": "",
+                    "genericCorrectFeedback": "¡Muy bien!"
+                },
+                "treatment": {
+                    "steps": [
+                        
+                    ]
+                },
+                "attachments": {
+                    "list": [
+                        {
+                            "alt": "",
+                            "src": "9788808-32122-0_1/1455371072230_$_potenziamento_$_1103989.jpg",
+                            "type": "image",
+                            "source": null,
+                            "caption": ""
+                        }
+                    ]
+                },
+                "dependencies": {
+                    
+                },
+                "lastRevision": 0,
+                "public_title": "Saludar",
+                "list": "W3siaWQiOjEsInRleHQiOiJNdWNobyBndXN0bywgc2XDsW9yLiIsImNvcnJlY3QiOnRydWUsImZlZWRiYWNrIjoiwqFTw60hLCDCoXJlc3B1ZXN0YSBjb3JyZWN0YSEifSx7ImlkIjoyLCJ0ZXh0IjoiRW5jYW50YWRhLCBzZcOxb3JhLiIsImNvcnJlY3QiOmZhbHNlLCJmZWVkYmFjayI6IkVzdGEgcmVzcHVlc3RhIGVzIGluY29ycmVjdGEuIn0seyJpZCI6MywidGV4dCI6IkVuY2FudGFkbywgc2XDsW9yLiIsImNvcnJlY3QiOmZhbHNlLCJmZWVkYmFjayI6IkVzdGEgcmVzcHVlc3RhIGVzIGluY29ycmVjdGEuIn0seyJpZCI6NCwidGV4dCI6IsKhQWRpw7NzISIsImNvcnJlY3QiOmZhbHNlLCJmZWVkYmFjayI6IlJlc3B1ZXN0YSBpbmNvcnJlY3RhOiBhZGnDs3Mgc29sbyBzZSB1c2EgZW4gY2FzbyBkZSBkZXNwZWRpZGEuIMKgIn0seyJpZCI6NSwidGV4dCI6IsKhSG9sYSEsIHlvIHNveSBKdWxpYS4iLCJjb3JyZWN0Ijp0cnVlLCJmZWVkYmFjayI6IsKhU8OtISwgwqFyZXNwdWVzdGEgY29ycmVjdGEhIn1d"
+            },
+            "difficulty": 2,
+            "authors": [
+                {
+                    "id": 460,
+                    "name": "José",
+                    "surname": "Pérez Navarro"
+                },
+                {
+                    "id": 461,
+                    "name": "Carla",
+                    "surname": "Polettini"
+                }
+            ]
+        },
+        {
+            "id": 235164,
+            "name": "zte_scuola_1103996_En juego_vol1_u01_potenziamento_02_dias_OK",
+            "publicTitle": "Los días de la semana",
+            "type": 2,
+            "typeLabel": "exercise.opengap",
+            "owner": "carlotta.verbavolant@libero.it",
+            "ownerCodeMyZ": "336514",
+            "origin": null,
+            "originOther": null,
+            "originYear": null,
+            "UGC": false,
+            "creationTime": "2020-02-22 22:15:44",
+            "modificationTime": "2020-02-22 22:15:44",
+            "levelType": null,
+            "malformed": false,
+            "originalId": 1103996,
+            "tags": [
+                
+            ],
+            "contentPaths": [
+                {
+                    "context": 2000034674,
+                    "paths": [
+                        {
+                            "verb": 1,
+                            "paths": [
+                                
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": 2000029803,
+                    "paths": [
+                        {
+                            "verb": 1,
+                            "paths": [
+                                
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "json": {
+                "tags": [
+                    
+                ],
+                "prompt": null,
+                "shuffle": true,
+                "version": 0,
+                "question": "Completa las frases escribiendo el día de la semana correspondiente.<br/><br/>1. Es el cuarto día de la semana: <gap_ref idref=\"_1\"/>.<br/>2. Si hoy es viernes, mañana será: <gap_ref idref=\"_2\"/>.<br/>3. Si cae en 13, ¡día de mala suerte!: <gap_ref idref=\"_3\"/>.<br/>4. Día de la semana con más vocales en su nombre: <gap_ref idref=\"_4\"/>.<br/>5. ¡El día más festivo de la semana!: <gap_ref idref=\"_5\"/>.<br/>",
+                "feedbacks": {
+                    "genericFeedback": "",
+                    "genericErrorFeedback": "Vaya. No respondiste correctamente. Repasa los días de la semana y repite luego el ejercicio.",
+                    "genericCorrectFeedback": "¡Muy bien!"
+                },
+                "treatment": {
+                    "steps": [
+                        
+                    ]
+                },
+                "attachments": {
+                    "list": [
+                        
+                    ]
+                },
+                "dependencies": {
+                    
+                },
+                "lastRevision": 0,
+                "public_title": "Los días de la semana",
+                "list": "W3siaWQiOiIxIiwidmFsdWVzIjpbeyJpZCI6MSwidGV4dCI6Imp1ZXZlcyAiLCJjb3JyZWN0IjpudWxsfSx7ImlkIjoyLCJ0ZXh0IjoiSnVldmVzIiwiY29ycmVjdCI6bnVsbH1dLCJmZWVkYmFjayI6IiJ9LHsiaWQiOiIyIiwidmFsdWVzIjpbeyJpZCI6MSwidGV4dCI6InPDoWJhZG8iLCJjb3JyZWN0IjpudWxsfSx7ImlkIjoyLCJ0ZXh0IjoiU8OhYmFkbyIsImNvcnJlY3QiOm51bGx9XSwiZmVlZGJhY2siOiIifSx7ImlkIjoiMyIsInZhbHVlcyI6W3siaWQiOjEsInRleHQiOiJtYXJ0ZXMiLCJjb3JyZWN0IjpudWxsfSx7ImlkIjoyLCJ0ZXh0IjoiTWFydGVzIiwiY29ycmVjdCI6bnVsbH1dLCJmZWVkYmFjayI6IiJ9LHsiaWQiOiI0IiwidmFsdWVzIjpbeyJpZCI6MSwidGV4dCI6Im1pw6lyY29sZXMiLCJjb3JyZWN0IjpudWxsfSx7ImlkIjoyLCJ0ZXh0IjoiTWnDqXJjb2xlcyIsImNvcnJlY3QiOm51bGx9XSwiZmVlZGJhY2siOiIifSx7ImlkIjoiNSIsInZhbHVlcyI6W3siaWQiOjEsInRleHQiOiJkb21pbmdvIiwiY29ycmVjdCI6bnVsbH0seyJpZCI6MiwidGV4dCI6IkRvbWluZ28iLCJjb3JyZWN0IjpudWxsfV0sImZlZWRiYWNrIjoiIn1d"
+            },
+            "difficulty": 2,
+            "authors": [
+                {
+                    "id": 460,
+                    "name": "José",
+                    "surname": "Pérez Navarro"
+                },
+                {
+                    "id": 461,
+                    "name": "Carla",
+                    "surname": "Polettini"
+                }
+            ]
+        },
+        {
+            "id": 235165,
+            "name": "zte_scuola_1104214_En juego_vol1_u01_potenziamento_03_partes del dia_OK",
+            "publicTitle": "Las partes del día",
+            "type": 1,
+            "typeLabel": "exercise.multiplechoice",
+            "owner": "carlotta.verbavolant@libero.it",
+            "ownerCodeMyZ": "336514",
+            "origin": null,
+            "originOther": null,
+            "originYear": null,
+            "UGC": false,
+            "creationTime": "2020-02-22 22:15:44",
+            "modificationTime": "2020-07-15 20:51:37",
+            "levelType": null,
+            "malformed": false,
+            "originalId": 1104214,
+            "tags": [
+                
+            ],
+            "contentPaths": [
+                {
+                    "context": 2000034674,
+                    "paths": [
+                        {
+                            "verb": 1,
+                            "paths": [
+                                
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": 2000029803,
+                    "paths": [
+                        {
+                            "verb": 1,
+                            "paths": [
+                                
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "json": {
+                "tags": [
+                    
+                ],
+                "prompt": null,
+                "shuffle": true,
+                "version": 1,
+                "question": "Elige las frases corectas. <br/><br/>",
+                "feedbacks": {
+                    "genericFeedback": "",
+                    "genericErrorFeedback": "",
+                    "genericCorrectFeedback": "¡Muy bien!"
+                },
+                "treatment": {
+                    "steps": [
+                        
+                    ]
+                },
+                "attachments": {
+                    "list": [
+                        
+                    ]
+                },
+                "dependencies": {
+                    
+                },
+                "lastRevision": 0,
+                "public_title": "Las partes del día",
+                "list": "W3siaWQiOjEsInRleHQiOiJUZW5nbyBjaXRhIGNvbiBlbCBkZW50aXN0YSBtYcOxYW5hIHBvciBsYSBtYcOxYW5h4oCmIGVuY2ltYSBxdWUgbWUgdmEgYSBkb2xlciwgwqFtZSB0ZW5kcsOpIHF1ZSBsZXZhbnRhciB0ZW1wcmFubyEiLCJjb3JyZWN0Ijp0cnVlLCJmZWVkYmFjayI6IiJ9LHsiaWQiOjIsInRleHQiOiJFc3RhIG5vY2hlIGRlc3B1w6lzIGRlIGFsbW9yemFyIMKgdmFtb3MgYSBpciBhIGNhc2EgZGUgTGVvIGEgZXN0dWRpYXIsIMK/dGUgcXVpZXJlcyB2ZW5pcj8iLCJjb3JyZWN0IjpmYWxzZSwiZmVlZGJhY2siOiJFbCBhbG11ZXJ6byBlcyBsYSBjb21pZGEgZGVsIG1lZGlvZMOtYSBvIHByaW1lcmFzIGhvcmFzIGRlIGxhIHRhcmRlLCBubyBwb3IgbGEgbm9jaGUuIFBvciBsbyB0YW50byBsYSBmcmFzZSBjYXJlY2UgZGUgc2VudGlkbzogZXMgaW5jb3JyZWN0YS4ifSx7ImlkIjozLCJ0ZXh0IjoiTGEgZmllc3RhIGRlIGVzdGEgcG9yIGxhIG5vY2hlIGVzIGVuIGxhIGRpc2NvdGVjYSBBcXVhcml1bSwgwqFxdcOpIGJpZW4hLCDCoWFsbMOtIGhheSBzaWVtcHJlIHVuIG1vbnTDs24gZGUgY2hpY2FzIGd1YXBhcyEiLCJjb3JyZWN0IjpmYWxzZSwiZmVlZGJhY2siOiJMYSBleHByZXNpw7NuIDxlbT5MYSBmaWVzdGEgZGUgZXN0YSBwb3IgbGEgbm9jaGU8L2VtPiBubyBlcyBjb3JyZWN0YS4gTGEgZXhwcmVzacOzbiBjb3JyZWN0YSBlczogPGVtPkxhIGZpZXN0YSBkZSBlc3RhIG5vY2hlPC9lbT4uIn0seyJpZCI6NCwidGV4dCI6IsK/VmllbmVzIG1hw7FhbmEgYWwgZ2ltbmFzaW8gY29uIG5vc290cm9zPyBJcmVtb3Mgc29icmUgbGFzIDIwOjAwIG3DoXMgbyBtZW5vcy4iLCJjb3JyZWN0Ijp0cnVlLCJmZWVkYmFjayI6IiJ9LHsiaWQiOjUsInRleHQiOiJWYW1vcyBhIHN1YmlyIGEgbGEgYXpvdGVhLCDCoWhhY2UgdW5hIG5vY2hlIG1hZ27DrWZpY2EgcGFyYSBtaXJhciBsYXMgZXN0cmVsbGFzISIsImNvcnJlY3QiOnRydWUsImZlZWRiYWNrIjoiIn1d"
+            },
+            "difficulty": 2,
+            "authors": [
+                {
+                    "id": 460,
+                    "name": "José",
+                    "surname": "Pérez Navarro"
+                },
+                {
+                    "id": 461,
+                    "name": "Carla",
+                    "surname": "Polettini"
+                }
+            ]
+        },
+        {
+            "id": 235166,
+            "name": "zte_scuola_1104215_En juego_vol1_u01_potenziamento_04_saludar y despedirse_OK_CARLOTTA",
+            "publicTitle": "Saludar y despedirse",
+            "type": 5,
+            "typeLabel": "exercise.finderror",
+            "owner": "carlotta.verbavolant@libero.it",
+            "ownerCodeMyZ": "336514",
+            "origin": null,
+            "originOther": null,
+            "originYear": null,
+            "UGC": false,
+            "creationTime": "2020-02-22 22:15:45",
+            "modificationTime": "2020-02-22 22:15:45",
+            "levelType": null,
+            "malformed": false,
+            "originalId": 1104215,
+            "tags": [
+                
+            ],
+            "contentPaths": [
+                {
+                    "context": 2000034674,
+                    "paths": [
+                        {
+                            "verb": 1,
+                            "paths": [
+                                
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": 2000029803,
+                    "paths": [
+                        {
+                            "verb": 1,
+                            "paths": [
+                                
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "json": {
+                "tags": [
+                    
+                ],
+                "prompt": null,
+                "shuffle": true,
+                "version": 0,
+                "question": "Encuentra el intruso. <br/><br/>1. <error_ref idref=\"_1\"/> / Hasta luego / Adiós / Hasta la próxima<br/>2. ¿Qué tal? / ¡Hola! / ¡Buenas! / <error_ref idref=\"_2\"/><br/>3. Buenas noches / <error_ref idref=\"_3\"/> / Hasta pronto / Hasta el miércoles<br/>",
+                "feedbacks": {
+                    "genericFeedback": "",
+                    "genericErrorFeedback": "",
+                    "genericCorrectFeedback": "¡Muy bien!"
+                },
+                "treatment": {
+                    "steps": [
+                        
+                    ]
+                },
+                "attachments": {
+                    "list": [
+                        
+                    ]
+                },
+                "dependencies": {
+                    
+                },
+                "lastRevision": 0,
+                "public_title": "Saludar y despedirse",
+                "list": "W3siaWQiOiIxIiwidmFsdWVzIjpbeyJpZCI6MSwidGV4dCI6IsK/UXXDqSBoYXk/IiwiY29ycmVjdCI6ZmFsc2V9LHsiaWQiOjIsInRleHQiOiItIiwiY29ycmVjdCI6dHJ1ZX1dLCJmZWVkYmFjayI6IjxlbT7Cv1F1w6kgaGF5PzwvZW0+IGVzIHVuIHNhbHVkby4gRWwgcmVzdG8gc29uIGV4cHJlc2lvbmVzIGRlIGRlc3BlZGlkYS4ifSx7ImlkIjoiMiIsInZhbHVlcyI6W3siaWQiOjEsInRleHQiOiJIYXN0YSBtYcOxYW5hIiwiY29ycmVjdCI6ZmFsc2V9LHsiaWQiOjIsInRleHQiOiItIiwiY29ycmVjdCI6dHJ1ZX1dLCJmZWVkYmFjayI6IjxlbT5IYXN0YSBtYcOxYW5hIDwvZW0+ZXMgdW5hIGV4cHJlc2nDs24gZGUgZGVzcGVkaWRhLiBFbCByZXN0byBkZSBleHByZXNpb25lcyBzb24gZGUgc2FsdWRvLiJ9LHsiaWQiOiIzIiwidmFsdWVzIjpbeyJpZCI6MSwidGV4dCI6Ikhhc3RhIGVsIGZvbmRvIiwiY29ycmVjdCI6ZmFsc2V9LHsiaWQiOjIsInRleHQiOiItIiwiY29ycmVjdCI6dHJ1ZX1dLCJmZWVkYmFjayI6IjxlbT5IYXN0YSBlbCBmb25kbzwvZW0+IG5vIGVzIHVuYSBleHByZXNpw7NuIGRlIHNhbHVkbyBuaSB0YW1wb2NvIGRlIGRlc3BlZGlkYSwgZWwgcmVzdG8gc8OtLiJ9XQ=="
+            },
+            "difficulty": 3,
+            "authors": [
+                {
+                    "id": 460,
+                    "name": "José",
+                    "surname": "Pérez Navarro"
+                },
+                {
+                    "id": 461,
+                    "name": "Carla",
+                    "surname": "Polettini"
+                }
+            ]
+        },
+        {
+            "id": 235167,
+            "name": "zte_scuola_1104283_En juego_vol1_u01_potenziamento_05_numeros_OK",
+            "publicTitle": "Los números de 0 a 20",
+            "type": 2,
+            "typeLabel": "exercise.opengap",
+            "owner": "carlotta.verbavolant@libero.it",
+            "ownerCodeMyZ": "336514",
+            "origin": null,
+            "originOther": null,
+            "originYear": null,
+            "UGC": false,
+            "creationTime": "2020-02-22 22:15:45",
+            "modificationTime": "2020-02-22 22:15:45",
+            "levelType": null,
+            "malformed": false,
+            "originalId": 1104283,
+            "tags": [
+                
+            ],
+            "contentPaths": [
+                {
+                    "context": 2000034674,
+                    "paths": [
+                        {
+                            "verb": 1,
+                            "paths": [
+                                
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": 2000029803,
+                    "paths": [
+                        {
+                            "verb": 1,
+                            "paths": [
+                                
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "json": {
+                "tags": [
+                    
+                ],
+                "prompt": null,
+                "shuffle": true,
+                "version": 0,
+                "question": "Escribe con letras el número que corresponde en cada casilla.  <br/><br/>2 = <gap_ref idref=\"_7\"/><br/>15 = <gap_ref idref=\"_1\"/><br/>11 = <gap_ref idref=\"_2\"/><br/>5 = <gap_ref idref=\"_3\"/><br/>20 = <gap_ref idref=\"_4\"/><br/>4 = <gap_ref idref=\"_5\"/><br/>13 = <gap_ref idref=\"_6\"/>",
+                "feedbacks": {
+                    "genericFeedback": "",
+                    "genericErrorFeedback": "Vaya, lo siento. Tu respuesta no es correcta. Vuelve a leer la lección sobre los números de 0 a 20 y repite el ejercicio.",
+                    "genericCorrectFeedback": "¡Muy bien!"
+                },
+                "treatment": {
+                    "steps": [
+                        
+                    ]
+                },
+                "attachments": {
+                    "list": [
+                        
+                    ]
+                },
+                "dependencies": {
+                    
+                },
+                "lastRevision": 0,
+                "public_title": "Los números de 0 a 20",
+                "list": "W3siaWQiOiIxIiwidmFsdWVzIjpbeyJpZCI6MSwidGV4dCI6InF1aW5jZSIsImNvcnJlY3QiOm51bGx9LHsiaWQiOjIsInRleHQiOiJRdWluY2UiLCJjb3JyZWN0IjpudWxsfV0sImZlZWRiYWNrIjoiIn0seyJpZCI6IjIiLCJ2YWx1ZXMiOlt7ImlkIjoxLCJ0ZXh0Ijoib25jZSIsImNvcnJlY3QiOm51bGx9LHsiaWQiOjIsInRleHQiOiJPbmNlIiwiY29ycmVjdCI6bnVsbH1dLCJmZWVkYmFjayI6IiJ9LHsiaWQiOiIzIiwidmFsdWVzIjpbeyJpZCI6MSwidGV4dCI6ImNpbmNvIiwiY29ycmVjdCI6bnVsbH0seyJpZCI6MiwidGV4dCI6IkNpbmNvIiwiY29ycmVjdCI6bnVsbH1dLCJmZWVkYmFjayI6IiJ9LHsiaWQiOiI0IiwidmFsdWVzIjpbeyJpZCI6MSwidGV4dCI6InZlaW50ZSIsImNvcnJlY3QiOm51bGx9LHsiaWQiOjIsInRleHQiOiJWZWludGUiLCJjb3JyZWN0IjpudWxsfV0sImZlZWRiYWNrIjoiIn0seyJpZCI6IjUiLCJ2YWx1ZXMiOlt7ImlkIjoxLCJ0ZXh0IjoiY3VhdHJvIiwiY29ycmVjdCI6bnVsbH0seyJpZCI6MiwidGV4dCI6IkN1YXRybyIsImNvcnJlY3QiOm51bGx9XSwiZmVlZGJhY2siOiIifSx7ImlkIjoiNiIsInZhbHVlcyI6W3siaWQiOjEsInRleHQiOiJ0cmVjZSIsImNvcnJlY3QiOm51bGx9LHsiaWQiOjIsInRleHQiOiJUcmVjZSIsImNvcnJlY3QiOm51bGx9XSwiZmVlZGJhY2siOiIifSx7ImlkIjoiNyIsInZhbHVlcyI6W3siaWQiOjEsInRleHQiOiJkb3MiLCJjb3JyZWN0IjpudWxsfV0sImZlZWRiYWNrIjoiIn1d"
+            },
+            "difficulty": 3,
+            "authors": [
+                {
+                    "id": 460,
+                    "name": "José",
+                    "surname": "Pérez Navarro"
+                },
+                {
+                    "id": 461,
+                    "name": "Carla",
+                    "surname": "Polettini"
+                }
+            ]
+        },
+        {
+            "id": 235168,
+            "name": "zte_scuola_1104349_En juego_vol1_u01_potenziamento_06_nacionalidades_OK",
+            "publicTitle": "Naciones y nacionalidades",
+            "type": 2,
+            "typeLabel": "exercise.opengap",
+            "owner": "carlotta.verbavolant@libero.it",
+            "ownerCodeMyZ": "336514",
+            "origin": null,
+            "originOther": null,
+            "originYear": null,
+            "UGC": false,
+            "creationTime": "2020-02-22 22:15:45",
+            "modificationTime": "2020-02-22 22:15:46",
+            "levelType": null,
+            "malformed": false,
+            "originalId": 1104349,
+            "tags": [
+                
+            ],
+            "contentPaths": [
+                {
+                    "context": 2000034674,
+                    "paths": [
+                        {
+                            "verb": 1,
+                            "paths": [
+                                
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": 2000029803,
+                    "paths": [
+                        {
+                            "verb": 1,
+                            "paths": [
+                                
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "json": {
+                "tags": [
+                    
+                ],
+                "prompt": null,
+                "shuffle": true,
+                "version": 0,
+                "question": "Escribe la nacionalidad al lado de cada nación. Sigue el ejemplo. <br/><br/>Italia - italiano<br/><br/>1. Francia - <gap_ref idref=\"_1\"/><br/>2. Brasil - <gap_ref idref=\"_2\"/><br/>3. Holanda - <gap_ref idref=\"_3\"/><br/>4. Marruecos - <gap_ref idref=\"_4\"/><br/>5. España - <gap_ref idref=\"_5\"/>",
+                "feedbacks": {
+                    "genericFeedback": "",
+                    "genericErrorFeedback": "Tu respuesta no es correcta. Repasa las naciones y nacionalidades y haz el ejercicio de nuevo.",
+                    "genericCorrectFeedback": "¡Muy bien!"
+                },
+                "treatment": {
+                    "steps": [
+                        
+                    ]
+                },
+                "attachments": {
+                    "list": [
+                        
+                    ]
+                },
+                "dependencies": {
+                    
+                },
+                "lastRevision": 0,
+                "public_title": "Naciones y nacionalidades",
+                "list": "W3siaWQiOiIxIiwidmFsdWVzIjpbeyJpZCI6MSwidGV4dCI6ImZyYW5jw6lzIiwiY29ycmVjdCI6bnVsbH0seyJpZCI6MiwidGV4dCI6IkZyYW5jw6lzIiwiY29ycmVjdCI6bnVsbH1dLCJmZWVkYmFjayI6IiJ9LHsiaWQiOiIyIiwidmFsdWVzIjpbeyJpZCI6MSwidGV4dCI6ImJyYXNpbGXDsW8iLCJjb3JyZWN0IjpudWxsfSx7ImlkIjoyLCJ0ZXh0IjoiQnJhc2lsZcOxbyIsImNvcnJlY3QiOm51bGx9XSwiZmVlZGJhY2siOiIifSx7ImlkIjoiMyIsInZhbHVlcyI6W3siaWQiOjEsInRleHQiOiJIb2xhbmTDqXMiLCJjb3JyZWN0IjpudWxsfSx7ImlkIjoyLCJ0ZXh0IjoiaG9sYW5kw6lzIiwiY29ycmVjdCI6bnVsbH1dLCJmZWVkYmFjayI6IiJ9LHsiaWQiOiI0IiwidmFsdWVzIjpbeyJpZCI6MSwidGV4dCI6Im1hcnJvcXXDrSIsImNvcnJlY3QiOm51bGx9LHsiaWQiOjIsInRleHQiOiJNYXJyb3F1w60iLCJjb3JyZWN0IjpudWxsfV0sImZlZWRiYWNrIjoiIn0seyJpZCI6IjUiLCJ2YWx1ZXMiOlt7ImlkIjoxLCJ0ZXh0IjoiRXNwYcOxb2wiLCJjb3JyZWN0IjpudWxsfSx7ImlkIjoyLCJ0ZXh0IjoiZXNwYcOxb2wiLCJjb3JyZWN0IjpudWxsfV0sImZlZWRiYWNrIjoiIn1d"
+            },
+            "difficulty": 3,
+            "authors": [
+                {
+                    "id": 460,
+                    "name": "José",
+                    "surname": "Pérez Navarro"
+                },
+                {
+                    "id": 461,
+                    "name": "Carla",
+                    "surname": "Polettini"
+                }
+            ]
+        },
+        {
+            "id": 235169,
+            "name": "zte_scuola_1104648_En juego_vol1_u01_potenziamento_07_verbo ser_OK",
+            "publicTitle": "Presente de indicativo del verbo ser",
+            "type": 2,
+            "typeLabel": "exercise.opengap",
+            "owner": "carlotta.verbavolant@libero.it",
+            "ownerCodeMyZ": "336514",
+            "origin": null,
+            "originOther": null,
+            "originYear": null,
+            "UGC": false,
+            "creationTime": "2020-02-22 22:15:46",
+            "modificationTime": "2020-02-22 22:15:46",
+            "levelType": null,
+            "malformed": false,
+            "originalId": 1104648,
+            "tags": [
+                
+            ],
+            "contentPaths": [
+                {
+                    "context": 2000034674,
+                    "paths": [
+                        {
+                            "verb": 1,
+                            "paths": [
+                                
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": 2000029803,
+                    "paths": [
+                        {
+                            "verb": 1,
+                            "paths": [
+                                
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "json": {
+                "tags": [
+                    
+                ],
+                "prompt": null,
+                "shuffle": true,
+                "version": 0,
+                "question": "Completa con la forma correcta del verbo <em>ser</em>.<br/><br/>1. Vosotros dos <gap_ref idref=\"_2\"/> primos, ¿verdad?<br/>2. Yo soy de Cádiz, Andalucía, y usted, ¿de dónde <gap_ref idref=\"_1\"/>?<br/>3. Chan y Li <gap_ref idref=\"_3\"/> de China, pero hablan muy bien español.<br/>4. El más alto de mi familia <gap_ref idref=\"_4\"/> mi hermano Andrés: mide casi dos metros.<br/>5. Creo que nosotros <gap_ref idref=\"_5\"/> los primeros en llegar a la fiesta, ahora tendremos que esperar a que llegue todo el mundo…  ¡qué aburrimiento!<br/>6. Hola chicas, ¿de dónde <gap_ref idref=\"_6\"/>? Nosotros <gap_ref idref=\"_7\"/> ingleses, de Manchester.<br/>",
+                "feedbacks": {
+                    "genericFeedback": "",
+                    "genericErrorFeedback": "Tienes que repasar el verbo <em>ser</em>. Tu respuesta no es correcta.",
+                    "genericCorrectFeedback": "¡Muy bien!"
+                },
+                "treatment": {
+                    "steps": [
+                        
+                    ]
+                },
+                "attachments": {
+                    "list": [
+                        
+                    ]
+                },
+                "dependencies": {
+                    
+                },
+                "lastRevision": 0,
+                "public_title": "Presente de indicativo del verbo ser",
+                "list": "W3siaWQiOiIxIiwidmFsdWVzIjpbeyJpZCI6MSwidGV4dCI6ImVzIiwiY29ycmVjdCI6bnVsbH1dLCJmZWVkYmFjayI6IiJ9LHsiaWQiOiIyIiwidmFsdWVzIjpbeyJpZCI6MSwidGV4dCI6InNvaXMiLCJjb3JyZWN0IjpudWxsfV0sImZlZWRiYWNrIjoiIn0seyJpZCI6IjMiLCJ2YWx1ZXMiOlt7ImlkIjoxLCJ0ZXh0Ijoic29uIiwiY29ycmVjdCI6bnVsbH1dLCJmZWVkYmFjayI6IiJ9LHsiaWQiOiI0IiwidmFsdWVzIjpbeyJpZCI6MSwidGV4dCI6ImVzIiwiY29ycmVjdCI6bnVsbH1dLCJmZWVkYmFjayI6IiJ9LHsiaWQiOiI1IiwidmFsdWVzIjpbeyJpZCI6MSwidGV4dCI6InNvbW9zIiwiY29ycmVjdCI6bnVsbH1dLCJmZWVkYmFjayI6IiJ9LHsiaWQiOiI2IiwidmFsdWVzIjpbeyJpZCI6MSwidGV4dCI6InNvaXMiLCJjb3JyZWN0IjpudWxsfV0sImZlZWRiYWNrIjoiIn0seyJpZCI6IjciLCJ2YWx1ZXMiOlt7ImlkIjoxLCJ0ZXh0Ijoic29tb3MiLCJjb3JyZWN0IjpudWxsfV0sImZlZWRiYWNrIjoiIn1d"
+            },
+            "difficulty": 4,
+            "authors": [
+                {
+                    "id": 460,
+                    "name": "José",
+                    "surname": "Pérez Navarro"
+                },
+                {
+                    "id": 461,
+                    "name": "Carla",
+                    "surname": "Polettini"
+                }
+            ]
+        },
+        {
+            "id": 235170,
+            "name": "zte_scuola_1105727_En juego_vol1_u01_potenziamento_08_plural_OK_CARLOTTA",
+            "publicTitle": "La formación del plural",
+            "type": 5,
+            "typeLabel": "exercise.finderror",
+            "owner": "carlotta.verbavolant@libero.it",
+            "ownerCodeMyZ": "336514",
+            "origin": null,
+            "originOther": null,
+            "originYear": null,
+            "UGC": false,
+            "creationTime": "2020-02-22 22:15:46",
+            "modificationTime": "2020-02-22 22:15:46",
+            "levelType": null,
+            "malformed": false,
+            "originalId": 1105727,
+            "tags": [
+                
+            ],
+            "contentPaths": [
+                {
+                    "context": 2000034674,
+                    "paths": [
+                        {
+                            "verb": 1,
+                            "paths": [
+                                
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": 2000029803,
+                    "paths": [
+                        {
+                            "verb": 1,
+                            "paths": [
+                                
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "json": {
+                "tags": [
+                    
+                ],
+                "prompt": null,
+                "shuffle": true,
+                "version": 0,
+                "question": "Señala los plurales incorrectos. <br/><br/>1. luz – <error_ref idref=\"_1\"/><br/>2. flor - flores<br/>3. tren – <error_ref idref=\"_2\"/><br/>4. árbol – árboles <br/>5. bajo – <error_ref idref=\"_3\"/><br/>6. azul - azules<br/>7. lunes – <error_ref idref=\"_4\"/><br/>8. canción - canciones <br/>9. café - <error_ref idref=\"_6\"/><br/><br/>",
+                "feedbacks": {
+                    "genericFeedback": "",
+                    "genericErrorFeedback": "",
+                    "genericCorrectFeedback": "¡Muy bien!"
+                },
+                "treatment": {
+                    "steps": [
+                        
+                    ]
+                },
+                "attachments": {
+                    "list": [
+                        
+                    ]
+                },
+                "dependencies": {
+                    
+                },
+                "lastRevision": 0,
+                "public_title": "La formación del plural",
+                "list": "W3siaWQiOiIxIiwidmFsdWVzIjpbeyJpZCI6MSwidGV4dCI6Imx1emVzIiwiY29ycmVjdCI6ZmFsc2V9LHsiaWQiOjIsInRleHQiOiJsdWNlcyIsImNvcnJlY3QiOnRydWV9XSwiZmVlZGJhY2siOiJDdWFuZG8gZWwgc2luZ3VsYXIgdGVybWluYSBlbiAteiwgPGVtPmx1ejwvZW0+LCBhbCBwbHVyYWwgbGEgLXogc2UgdHJhbnNmb3JtYSBlbiAtYywgPGVtPmx1Y2VzPC9lbT4uIn0seyJpZCI6IjIiLCJ2YWx1ZXMiOlt7ImlkIjoxLCJ0ZXh0IjoidHJlbnMiLCJjb3JyZWN0IjpmYWxzZX0seyJpZCI6MiwidGV4dCI6InRyZW5lcyIsImNvcnJlY3QiOnRydWV9XSwiZmVlZGJhY2siOiJFbCBwbHVyYWwgZGUgbG9zIG5vbWJyZXMgeSBhZGpldGl2b3MgcXVlIHRlcm1pbmFuIGVuIGNvbnNvbmFudGUgc2UgZm9ybWEgY29uICtlcy4ifSx7ImlkIjoiMyIsInZhbHVlcyI6W3siaWQiOjEsInRleHQiOiJiYWplcyIsImNvcnJlY3QiOmZhbHNlfSx7ImlkIjoyLCJ0ZXh0IjoiYmFqb3MiLCJjb3JyZWN0Ijp0cnVlfV0sImZlZWRiYWNrIjoiRWwgcGx1cmFsIGRlIDxlbT5iYWpvPC9lbT4gZXMgPGVtPmJham9zPC9lbT4uIn0seyJpZCI6IjQiLCJ2YWx1ZXMiOlt7ImlkIjoxLCJ0ZXh0IjoibHVuZXNlcyIsImNvcnJlY3QiOmZhbHNlfSx7ImlkIjoyLCJ0ZXh0IjoibHVuZXMiLCJjb3JyZWN0Ijp0cnVlfV0sImZlZWRiYWNrIjoiRWwgcGx1cmFsIGRlIGx1bmVzIGVzIGx1bmVzLiJ9LHsiaWQiOiI2IiwidmFsdWVzIjpbeyJpZCI6MSwidGV4dCI6ImNhZsOpIiwiY29ycmVjdCI6ZmFsc2V9LHsiaWQiOjIsInRleHQiOiJjYWbDqXMiLCJjb3JyZWN0Ijp0cnVlfV0sImZlZWRiYWNrIjoiRWwgcGx1cmFsIGRlIGxvcyBub21icmVzIHkgYWRqZXRpdm9zIHF1ZSB0ZXJtaW5hbiBlbiB2b2NhbCBzZSBmb3JtYSBjb24gK2VzLiJ9XQ=="
+            },
+            "difficulty": 4,
+            "authors": [
+                {
+                    "id": 460,
+                    "name": "José",
+                    "surname": "Pérez Navarro"
+                },
+                {
+                    "id": 461,
+                    "name": "Carla",
+                    "surname": "Polettini"
+                }
+            ]
+        },
+        {
+            "id": 235171,
+            "name": "zte_scuola_1105732_En juego_vol1_u01_potenziamento_09_verbos en ar_OK_CARLOTTA",
+            "publicTitle": "Presente de indicativo de los verbos en -ar",
+            "type": 3,
+            "typeLabel": "exercise.closedgap",
+            "owner": "carlotta.verbavolant@libero.it",
+            "ownerCodeMyZ": "336514",
+            "origin": null,
+            "originOther": null,
+            "originYear": null,
+            "UGC": false,
+            "creationTime": "2020-02-22 22:15:46",
+            "modificationTime": "2020-02-22 22:15:47",
+            "levelType": null,
+            "malformed": false,
+            "originalId": 1105732,
+            "tags": [
+                
+            ],
+            "contentPaths": [
+                {
+                    "context": 2000034674,
+                    "paths": [
+                        {
+                            "verb": 1,
+                            "paths": [
+                                
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": 2000029803,
+                    "paths": [
+                        {
+                            "verb": 1,
+                            "paths": [
+                                
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "json": {
+                "tags": [
+                    
+                ],
+                "prompt": null,
+                "shuffle": true,
+                "version": 0,
+                "question": "Elige la opción correcta. <br/><br/>1. Chicos, ¿a qué hora <gap_ref idref=\"_6\"/> esta noche el partido de fútbol? <br/>2. Tu amiga <gap_ref idref=\"_5\"/> mucho, ¡no se calla nunca! ¡Qué pesada es!<br/>3. Cuando Carlota <gap_ref idref=\"_4\"/>, empieza a llover… ¡es muy mala cantante! <br/>4. Ellos <gap_ref idref=\"_3\"/> todos los días en la biblioteca que hay en la calle Velázquez. <br/>5. Creo que tengo fiebre, y me encuentro mal. Así que hoy no voy a ir a <gap_ref idref=\"_2\"/>. <br/>6. Mario siempre <gap_ref idref=\"_1\"/> tarde a clase, ¡qué flojo es!<br/>",
+                "feedbacks": {
+                    "genericFeedback": "",
+                    "genericErrorFeedback": "¡Ojo! Presta particular atención a los acentos, a las diferencias entre las personas singulares y plurales.",
+                    "genericCorrectFeedback": "¡Muy bien!"
+                },
+                "treatment": {
+                    "steps": [
+                        
+                    ]
+                },
+                "attachments": {
+                    "list": [
+                        
+                    ]
+                },
+                "dependencies": {
+                    
+                },
+                "lastRevision": 0,
+                "public_title": "Presente de indicativo de los verbos en -ar",
+                "list": "W3siaWQiOiIxIiwidmFsdWVzIjpbeyJpZCI6MSwidGV4dCI6ImxsZWdhIiwiY29ycmVjdCI6dHJ1ZX0seyJpZCI6MiwidGV4dCI6ImxsZWdhcyIsImNvcnJlY3QiOmZhbHNlfV0sImZlZWRiYWNrIjoiIn0seyJpZCI6IjIiLCJ2YWx1ZXMiOlt7ImlkIjoxLCJ0ZXh0IjoidHJhYmFqYXIiLCJjb3JyZWN0Ijp0cnVlfSx7ImlkIjoyLCJ0ZXh0IjoidHJhYmFqbyIsImNvcnJlY3QiOmZhbHNlfV0sImZlZWRiYWNrIjoiIn0seyJpZCI6IjMiLCJ2YWx1ZXMiOlt7ImlkIjoxLCJ0ZXh0IjoiZXN0dWRpYW4iLCJjb3JyZWN0Ijp0cnVlfSx7ImlkIjoyLCJ0ZXh0IjoiZXN0dWRpYW1vcyAiLCJjb3JyZWN0IjpmYWxzZX1dLCJmZWVkYmFjayI6IiJ9LHsiaWQiOiI0IiwidmFsdWVzIjpbeyJpZCI6MSwidGV4dCI6ImNhbnRhIiwiY29ycmVjdCI6dHJ1ZX0seyJpZCI6MiwidGV4dCI6ImNhbnRhciIsImNvcnJlY3QiOmZhbHNlfV0sImZlZWRiYWNrIjoiIn0seyJpZCI6IjUiLCJ2YWx1ZXMiOlt7ImlkIjoxLCJ0ZXh0IjoiaGFibGFuIiwiY29ycmVjdCI6ZmFsc2V9LHsiaWQiOjIsInRleHQiOiJoYWJsYSIsImNvcnJlY3QiOnRydWV9XSwiZmVlZGJhY2siOiIifSx7ImlkIjoiNiIsInZhbHVlcyI6W3siaWQiOjEsInRleHQiOiJqdWfDoWlzICIsImNvcnJlY3QiOnRydWV9LHsiaWQiOjIsInRleHQiOiJqdWdhaXMgIiwiY29ycmVjdCI6ZmFsc2V9XSwiZmVlZGJhY2siOiIifV0="
+            },
+            "difficulty": 4,
+            "authors": [
+                {
+                    "id": 460,
+                    "name": "José",
+                    "surname": "Pérez Navarro"
+                },
+                {
+                    "id": 461,
+                    "name": "Carla",
+                    "surname": "Polettini"
+                }
+            ]
+        },
+        {
+            "id": 235172,
+            "name": "zte_scuola_1105947_En juego_vol1_u01_potenziamento_10_verbos en ar_pronombres reflexivos_OK",
+            "publicTitle": "Pronombres reflexivos",
+            "type": 4,
+            "typeLabel": "exercise.dragndrop",
+            "owner": "carlotta.verbavolant@libero.it",
+            "ownerCodeMyZ": "336514",
+            "origin": null,
+            "originOther": null,
+            "originYear": null,
+            "UGC": false,
+            "creationTime": "2020-02-22 22:15:47",
+            "modificationTime": "2020-02-22 22:15:47",
+            "levelType": null,
+            "malformed": false,
+            "originalId": 1105947,
+            "tags": [
+                
+            ],
+            "contentPaths": [
+                {
+                    "context": 2000034674,
+                    "paths": [
+                        {
+                            "verb": 1,
+                            "paths": [
+                                
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "context": 2000029803,
+                    "paths": [
+                        {
+                            "verb": 1,
+                            "paths": [
+                                
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "json": {
+                "tags": [
+                    
+                ],
+                "prompt": null,
+                "shuffle": true,
+                "version": 0,
+                "question": "Coloca las palabras que encuentras al final del ejercicio en el lugar correspondiente. <br/><br/>1. Cada vez que voy a la playa <gap_ref idref=\"_1\"/> por lo menos cinco veces, ¡me encanta el mar!<br/>2. David me ha dicho que lleva cinco días sin <gap_ref idref=\"_2\"/>, ¡qué guarro!<br/>3. ¿Quién <gap_ref idref=\"_3\"/> conmigo esta noche en la piscina?<br/>4. Ellos no <gap_ref idref=\"_4\"/> hasta que su madre les dé permiso, son unos chicos muy educados.<br/>5. Si <gap_ref idref=\"_5\"/> con Jorge, ten cuidado, es un chico muy bromista, ¡seguro que te gasta alguna broma en el agua!<br/>6. Cariño, ¿<gap_ref idref=\"_6\"/> al bebé mientras yo hago la cena, por favor?<br/>",
+                "feedbacks": {
+                    "genericFeedback": "",
+                    "genericErrorFeedback": "Tu respuesta no es correcta. Repasa la lección e inténtalo de nuevo.",
+                    "genericCorrectFeedback": "¡Muy bien!"
+                },
+                "treatment": {
+                    "steps": [
+                        
+                    ]
+                },
+                "attachments": {
+                    "list": [
+                        
+                    ]
+                },
+                "dependencies": {
+                    
+                },
+                "lastRevision": 0,
+                "public_title": "Pronombres reflexivos",
+                "list": "W3siaWQiOiIxIiwidmFsdWVzIjpbeyJpZCI6MSwidGV4dCI6Im1lIGJhw7FvIiwiY29ycmVjdCI6bnVsbH1dLCJmZWVkYmFjayI6IiJ9LHsiaWQiOiIyIiwidmFsdWVzIjpbeyJpZCI6MSwidGV4dCI6ImJhw7FhcnNlIiwiY29ycmVjdCI6bnVsbH1dLCJmZWVkYmFjayI6IiJ9LHsiaWQiOiIzIiwidmFsdWVzIjpbeyJpZCI6MSwidGV4dCI6InNlIGJhw7FhIiwiY29ycmVjdCI6bnVsbH1dLCJmZWVkYmFjayI6IiJ9LHsiaWQiOiI0IiwidmFsdWVzIjpbeyJpZCI6MSwidGV4dCI6InNlIGJhw7FhbiIsImNvcnJlY3QiOm51bGx9XSwiZmVlZGJhY2siOiIifSx7ImlkIjoiNSIsInZhbHVlcyI6W3siaWQiOjEsInRleHQiOiJ0ZSBiYcOxYXMiLCJjb3JyZWN0IjpudWxsfV0sImZlZWRiYWNrIjoiIn0seyJpZCI6IjYiLCJ2YWx1ZXMiOlt7ImlkIjoxLCJ0ZXh0IjoiYmHDsWFzIiwiY29ycmVjdCI6bnVsbH1dLCJmZWVkYmFjayI6IiJ9XQ=="
+            },
+            "difficulty": 3,
+            "authors": [
+                {
+                    "id": 460,
+                    "name": "José",
+                    "surname": "Pérez Navarro"
+                },
+                {
+                    "id": 461,
+                    "name": "Carla",
+                    "surname": "Polettini"
+                }
+            ]
+        }
+    ],
+    "authors": [
+        {
+            "id": 460,
+            "name": "José",
+            "surname": "Pérez Navarro"
+        },
+        {
+            "id": 461,
+            "name": "Carla",
+            "surname": "Polettini"
+        }
+    ],
+    "version": 1,
+    "creator": {
+        "id": 336514,
+        "firstName": "Carlotta",
+        "lastName": "Comba"
+    }
+}
