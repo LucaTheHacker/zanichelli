@@ -10,7 +10,7 @@ It's always funny to demonstrate how systems can be stupid.
 4. Search for a request having the url starting with `https://zte.zanichelli.it/viewer-be/api/homework/zte_` and click on it
 5. Open the `Response` tab
 6. Copy the content of the response in `sources`
-7. Run the command below, by default it won't show the questions, but only answers. Use questions to change this.
+7. Run the command below, by default it won't show the questions, but only answers. Use `questions` to change this.
 
        php main.php [questions]
 8. Enjoy your mark :P
