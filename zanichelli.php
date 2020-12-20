@@ -20,14 +20,14 @@ class Zanichelli
     }
 
     /*
-     * Returns the solution of an exercise
+     * Returns the solution of a single exercise
      *
      * @param array $exercise
      * @return array
      * */
     private function solveExercise(array $exercise): array
     {
-        // Decode the list containing all the QA
+        // Decodes the list containing all the Q&A
         $options = json_decode(base64_decode($exercise['list']), true);
 
         // Search for exercise type
@@ -63,7 +63,7 @@ class Zanichelli
     }
 
     /*
-     * Resolves the whole test
+     * Solves the whole quiz
      *
      * @return array
      * */
@@ -75,7 +75,7 @@ class Zanichelli
 
             // Question cleaner
             $result['question'] = str_replace('<br/>', PHP_EOL, $result['question']);
-            $result['question'] = preg_replace('<(gap_ref|error_ref) idref="_[0-9]*"/>', 'INSERT HERE', $result['question']);
+            $result['question'] = preg_replace('<(gap_ref|error_ref) idref="_[0-9]*"/>', 'CHANGE HERE', $result['question']);
 
             // Solutions cleaner
             if (!is_array($result['solutions'])) {
@@ -89,7 +89,7 @@ class Zanichelli
     }
 
     /*
-     * Returns infos about the quiz
+     * Returns information about the quiz
      *
      * @return array
      * */
