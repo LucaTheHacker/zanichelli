@@ -27,7 +27,7 @@ class Zanichelli
      * */
     private function solveExercise(array $exercise): array
     {
-        // Decode the list containing all the QA
+        // Decodes the list containing all the QA
         $options = json_decode(base64_decode($exercise['list']), true);
 
         // Search for exercise type
@@ -63,7 +63,7 @@ class Zanichelli
     }
 
     /*
-     * Resolves the whole test
+     * Solves the whole quiz
      *
      * @return array
      * */
@@ -89,7 +89,7 @@ class Zanichelli
     }
 
     /*
-     * Returns infos about the quiz
+     * Returns info about the quiz
      *
      * @return array
      * */
