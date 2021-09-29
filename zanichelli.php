@@ -52,7 +52,7 @@ class Zanichelli
         } else {
             $solutions = [];
             foreach ($options as $option) {
-                if ($option['correct']) $solutions[] = rtrim($option['text']);
+                if ($option['correct']) $solutions[] =  rtrim($option['text']??$option['question']);
             }
         }
 
